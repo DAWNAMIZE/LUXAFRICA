@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/shoe store.unity
+    guid: 2688a2192aab6e04b97da78dac43edb2
+  - enabled: 0
+    path: Assets/Scenes/cloth store.unity
+    guid: e248d9d40402ef44fa3d25a8378395be
+  - enabled: 0
+    path: Assets/Scenes/jewlry.unity
+    guid: b72df41348568414784384be204dd259
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/SampleScene/store A.unity
+    guid: 68e5b9ac0c6c8d248a0d49328c5b0b81
+  - enabled: 0
+    path: Assets/Scenes/SampleScene/store B.unity
+    guid: 02ba0c3c0a4abbe44bcf957ba1f18431
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/joint store.unity
+    guid: b9269c067fe2fb74ba4bcd879a5cdc82
+  - enabled: 1
+    path: Assets/Scenes/new structure.unity
+    guid: 7ac3a456a6082f24290ab47798df6c7b
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a54714351258d2744a6b0035188c7520,
+      type: 2}

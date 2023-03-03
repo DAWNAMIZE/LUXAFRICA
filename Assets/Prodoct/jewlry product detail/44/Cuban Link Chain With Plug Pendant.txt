@@ -1,0 +1,10 @@
+"store": "kristal jewlry",
+"name": " Cuban Link Chain With Plug Pendant",
+"description": "his quality chain necklace and pendant takes complexity out of your wardrobe and replaces it with simplicity. ",
+"price": "N 7000",
+"size": ""
+"image": ""
+"section": "jewlry"
+"brand": "neckless"
+
+shoe store product ID = [44]

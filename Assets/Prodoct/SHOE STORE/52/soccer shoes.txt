@@ -1,0 +1,10 @@
+"store": "jewlry",
+"name": " Jewellery Zircon Necklaces",
+"description": "Rubber sole provides great appeal for tailoring hoop. The breathable upper wraps the feet for long-lasting comfort.",
+"price": "N 20000",
+"size": "45,42"
+"image": ""
+"section": "shoes"
+"brand": "sports"
+
+shoe store product ID = [52]

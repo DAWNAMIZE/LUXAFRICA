@@ -1,0 +1,10 @@
+"store": "kristal jewlry",
+"name": " Jewellery Zircon Necklaces",
+"description": "bijoux invisible chain necklace Gold Silver ",
+"price": "N 2000",
+"size": ""
+"image": ""
+"section": "jewlry"
+"brand": "neckless"
+
+shoe store product ID = [42]

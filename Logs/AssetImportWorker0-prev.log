@@ -1,0 +1,144 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1826; Version 2009; 64bit' Language: 'en' Physical Memory: 16273 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/gamer/Documents/GitHub/LUXAFRICA2/LuxAfrica/LuxAfrica
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49776
+Successfully changed project path to: C:/Users/gamer/Documents/GitHub/LUXAFRICA2/LuxAfrica/LuxAfrica
+C:/Users/gamer/Documents/GitHub/LUXAFRICA2/LuxAfrica/LuxAfrica
+Using Asset Import Pipeline V2.
+Assets/bedroom int.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+
+Refreshing native plugins compatible for Editor in 151.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/gamer/Documents/GitHub/LUXAFRICA2/LuxAfrica/LuxAfrica/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   31.0.15.1659
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56316
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002022 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assets/bedroom int.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+
+Refreshing native plugins compatible for Editor in 138.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.282 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005043 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assets/bedroom int.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+
+Refreshing native plugins compatible for Editor in 125.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.619 seconds
+Platform modules already initialized, skipping
+Assets/bedroom int.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+
+========================================================================
+Worker process is ready to serve import requests
+Assets/bedroom int.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4053 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 177.3 MB.
+System memory in use after: 177.5 MB.
+
+Unloading 63 unused Assets to reduce memory usage. Loaded Objects now: 4462.
+Total: 7.121400 ms (FindLiveObjects: 0.522300 ms CreateObjectMapping: 0.219800 ms MarkObjects: 6.256300 ms  DeleteObjects: 0.121600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Materials/Materials
+  artifactKey: Guid(e0805ff46cf785046839f971cfdab4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials using Guid(e0805ff46cf785046839f971cfdab4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14620ee10f34e9df6578ad005cd20d1c') in 0.031914 seconds
+  Import took 0.039140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.206040 seconds.
+  path: Assets/New Lighting Settings.lighting
+  artifactKey: Guid(9affd6edfd2c1da43ad4741471e1fda2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Lighting Settings.lighting using Guid(9affd6edfd2c1da43ad4741471e1fda2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8b65ece537e5d36d0fb1e7a60d18881') in 0.025042 seconds
+  Import took 0.053262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.470055 seconds.
+  path: Assets/bake Lighting Settings.lighting
+  artifactKey: Guid(1e164f7206a990d40b9aa935cfd146ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bake Lighting Settings.lighting using Guid(1e164f7206a990d40b9aa935cfd146ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dc81ba1cb5e7b03ccb43d189deeb27f') in 0.001959 seconds
+  Import took 0.030071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.441585 seconds.
+  path: Assets/New Lighting Settings 1.lighting
+  artifactKey: Guid(5a73bc1ff0e29f94aae4377f802bbd7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Lighting Settings 1.lighting using Guid(5a73bc1ff0e29f94aae4377f802bbd7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c80a635d1fd9e9a5f28ad5062ca3a14f') in 0.002117 seconds
+  Import took 0.009691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.238518 seconds.
+  path: Assets/New Lighting Settings 2.lighting
+  artifactKey: Guid(8c216615c2714b7498de6c6e4f97a760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Lighting Settings 2.lighting using Guid(8c216615c2714b7498de6c6e4f97a760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae0d13e6bd29d7b00aacb4d0dac43220') in 0.002013 seconds
+  Import took 0.010532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.433147 seconds.
+  path: Assets/bedroom int.c4d
+  artifactKey: Guid(ca4094c61e7833c4b8f544b9cf348cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bedroom int.c4d using Guid(ca4094c61e7833c4b8f544b9cf348cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Assets/bedroom int.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+
+ -> (artifact id: '9966a72f1765b8feebed41a21a28ad63') in 0.005016 seconds
+  Import took 0.014036 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

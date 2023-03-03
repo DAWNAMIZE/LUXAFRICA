@@ -1,0 +1,10 @@
+"store": "bravo shoe stores",
+"name": "  Trendy Teen's Sneekers ",
+"description": "Trendy Teen's Sneekers is designed for teenage boys for both sport and casual outings.",
+"price": "N 10000",
+"size": "45"
+"image": ""
+"section": "shoes"
+"brand": "trendy"
+
+shoe store product ID = [51]
